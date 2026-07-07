@@ -2,7 +2,7 @@
 
 # Hello there
 
-I'm Andy and I have a passion for documentation. My views are my own.
+I'm Andy and I have a passion for leadership, process and documentation. My views are my own.
 
 ## GitHub
 
